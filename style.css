@@ -1,0 +1,26 @@
+/* The back to index.php button */
+.back {
+  margin: 0.5rem;
+}
+/* Headings for index.php-page */
+h1 {
+  text-align: center;
+  margin-top: 3rem;
+}
+h2 {
+  text-align: center;
+}
+/* Pictures for cards */
+.small {
+  width: 15rem;
+}
+/* Pictures for details */
+.big {
+  width: 18rem;
+  margin-top: 0.8rem;
+  margin-left: 1rem;
+}
+/* The search-bar for titles */
+.searchTitle {
+  margin-left: 1.2rem;
+}
